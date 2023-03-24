@@ -2,7 +2,7 @@
 Submission for the competition hosted by IIEST 
 
 
-Main.ipynb can be used to train the model.
+643311-U7F4SL96_brain_dead.ipynb can be used to train the model.
 
 Others files have the different test_accuracy metrics and Confusion Matrix (Basic -> Original data, Synthetic -> Fake generatede Data, Mixed -> Synthetic+Original Data).
 
